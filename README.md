@@ -20,4 +20,4 @@ Over the process of 12 weeks, we worked as a team of developers using TDD. Along
 
 For this project, we primarily used Java as well as the Java swing library for UI implementation.
 
-Created in IDE: Eclipse 
+Created in IDE: Eclipse Luna
